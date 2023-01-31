@@ -1,6 +1,7 @@
 .gradle
 /build/
-
+/node_modules/
+/.expo/
 # Ignore Gradle GUI config
 gradle-app.setting
 
